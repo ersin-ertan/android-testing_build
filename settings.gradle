@@ -1,1 +1,1 @@
-include ':myapplication', ':stetho'
+include  ':stetho', ':jakewhartonlogging'
