@@ -1,1 +1,1 @@
-include  ':stetho', ':jakewhartonlogging'
+include  ':stetho', ':jakewhartonlogging', ':stetho-sample'

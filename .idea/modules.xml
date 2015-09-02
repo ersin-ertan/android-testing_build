@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/android-testing_build.iml" filepath="$PROJECT_DIR$/android-testing_build.iml" />
       <module fileurl="file://$PROJECT_DIR$/jakewhartonlogging/jakewhartonlogging.iml" filepath="$PROJECT_DIR$/jakewhartonlogging/jakewhartonlogging.iml" />
       <module fileurl="file://$PROJECT_DIR$/stetho/stetho.iml" filepath="$PROJECT_DIR$/stetho/stetho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stetho-sample/stetho-sample.iml" filepath="$PROJECT_DIR$/stetho-sample/stetho-sample.iml" />
     </modules>
   </component>
 </project>
